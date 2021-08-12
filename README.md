@@ -16,8 +16,8 @@
 - 📫 How to reach me **panerigunjan871@gmail.com**
 
 
-## 🚀 Languages and Tools:
-
+<h1/><img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/github.gif" width="50px"/> My Streak</h1>
+    
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
