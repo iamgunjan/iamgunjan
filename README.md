@@ -69,5 +69,4 @@
     <img src="https://komarev.com/ghpvc/?username=iamgunjan">
 </a>
 
-![Stars](https://img.shields.io/github/stars/iamgunjan?affiliations=OWNER&style=social)
 <a href="https://github.com/iamgunjan?tab=followers"><img src="https://img.shields.io/github/followers/iamgunjan?label=Followers&style=social" alt="GitHub Badge"></a> 
