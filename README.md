@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **panerigunjan871@gmail.com**
+- 📫 Reach out to me at **panerigunjan871@gmail.com**
 
 
 <h1/><img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/github.gif" width="50px"/> My Streak</h1>
@@ -68,4 +68,6 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iamgunjan">
 </a>
-<a href="https://github.com/iamgunjan?tab=followers"><img src="https://img.shields.io/github/followers/iamgunjan?label=Followers&style=social" alt="GitHub Badge"></a>
+
+![Stars](https://img.shields.io/github/stars/iamgunjan?affiliations=OWNER&style=social)
+<a href="https://github.com/iamgunjan?tab=followers"><img src="https://img.shields.io/github/followers/iamgunjan?label=Followers&style=social" alt="GitHub Badge"></a> 
