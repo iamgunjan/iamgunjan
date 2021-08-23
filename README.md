@@ -3,6 +3,7 @@
 </p>
 
 
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Gunjan</h1>
 <h3 align="center">I'm a passionate learner!</h3>
 
@@ -11,12 +12,18 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and Flutter.**
 
+- 🎓 Studying Computer Science with specialization in Internet of Things at Chandigarh University.
+
+- 💼   Actively looking for a summer internship opportuinity.
+
 - 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- Founder of <a href="https://www.linkedin.com/company/techsahead" target="_blank">Techsahead</a>
 
 - 📫 Reach out to me at **panerigunjan871@gmail.com**
 
 
-<h1/><img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/github.gif" width="50px"/> My Streak</h1>
+<h1/><img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/github.gif" width="50px"/> Tech Stack</h1>
     
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -70,3 +77,4 @@
 </a>
 
 <a href="https://github.com/iamgunjan?tab=followers"><img src="https://img.shields.io/github/followers/iamgunjan?label=Followers&style=social" alt="GitHub Badge"></a> 
+![License](https://camo.githubusercontent.com/890acbdcb87868b382af9a4b1fac507b9659d9bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
