@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and Flutter.**
+- 🌱 I’m currently learning **new technlogies and working on old ones.**
 
 - 🎓 Studying Computer Science with specialization in Internet of Things at Chandigarh University.
 
