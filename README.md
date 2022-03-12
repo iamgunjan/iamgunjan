@@ -10,31 +10,27 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **new technlogies and working on old ones.**
+- 🌱 I’m currently learning **UI UX Designing.**
 
 - 🎓 Studying Computer Science with specialization in Internet of Things at Chandigarh University.
 
-- 💼   Actively looking for a summer internship opportuinity.
+- 💼   Actively looking for a design internship opportuinities.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Design Projects and Case Studies**
 
-- Founder of <a href="https://www.linkedin.com/company/techsahead" target="_blank">Techsahead</a>
+- Founder of <a href="https://www.linkedin.com/company/peoplewho-codes" target="_blank">PeopleWhoCodes</a>
 
 - 📫 Reach out to me at **panerigunjan871@gmail.com**
 
 
-<h1/><img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/github.gif" width="50px"/> Tech Stack</h1>
+<h1/><img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/github.gif" width="50px"/> Tools I Use</h1>
     
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://c++.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
+    <a href="https://www.adobe.com/in/products/xd.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v2.png"/> </a>
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/> </a>
+    <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-indesign--v1.png"/> </a>
+    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> </a>
 </p>
     
 <h1/><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px"/> My Streak</h1>
