@@ -1,11 +1,11 @@
-<p align="center">
-<a align="center"><img src="https://raw.githubusercontent.com/DeepaPrasanna/DeepaPrasanna/master/images/femalecodertocat.png" width="300px"> </a>
+<p
+<a><img src="https://raw.githubusercontent.com/DeepaPrasanna/DeepaPrasanna/master/images/femalecodertocat.png" width="300px"> </a>
 </p>
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Gunjan</h1>
-<h3 align="center">I'm a passionate learner!</h3>
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Gunjan</h1>
+<h3>I'm a passionate learner!</h3>
 
 
 ## 🙋‍♂️ About Me
