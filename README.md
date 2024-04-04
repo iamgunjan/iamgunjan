@@ -1,9 +1,3 @@
-<p
-<a><img src="https://raw.githubusercontent.com/DeepaPrasanna/DeepaPrasanna/master/images/femalecodertocat.png" width="300px"> </a>
-</p>
-
-
-
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Gunjan</h1>
 <h3>UI UX and Product Designer</h3>
 
