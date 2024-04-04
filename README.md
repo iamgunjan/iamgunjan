@@ -18,8 +18,6 @@
 
 - 👯 I’m looking to collaborate on **Design Projects and Case Studies**
 
-- Founder of <a href="https://www.linkedin.com/company/peoplewho-codes" target="_blank">PeopleWhoCodes</a>
-
 - 📫 Reach out to me at **panerigunjan871@gmail.com**
 
 
