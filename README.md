@@ -5,14 +5,12 @@
 
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Gunjan</h1>
-<h3>I'm a passionate learner!</h3>
+<h3>UI UX and Product Designer</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m an experienced **UI UX Designing.**
-
-- 💼   Actively looking for design-related freelancing gigs.
+- 💼 Actively looking for design-related freelancing gigs.
 
 - 👯 I’m looking to collaborate on **Design Projects and Case Studies**
 
