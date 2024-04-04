@@ -10,11 +10,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **UI UX Designing.**
+- 🌱 I’m an experienced **UI UX Designing.**
 
-- 🎓 Studying Computer Science with specialization in Internet of Things at Chandigarh University.
-
-- 💼   Actively looking for a design internship opportuinities.
+- 💼   Actively looking for design-related freelancing gigs.
 
 - 👯 I’m looking to collaborate on **Design Projects and Case Studies**
 
